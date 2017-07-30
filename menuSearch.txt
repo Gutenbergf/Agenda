@@ -1,0 +1,10 @@
+	      TELEPHONE AGENDA - AT
+
+Options:
+
+1 - Search by name
+2 - Search by phone
+
+======================================================
+
+Select an option: 

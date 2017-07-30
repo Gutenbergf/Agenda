@@ -1,0 +1,14 @@
+	      TELEPHONE AGENDA - AT
+Options:
+
+1 - Add Contact
+2 - View Contacts
+3 - Search Contact
+4 - Modify Contact
+5 - Remove Contact
+6 - Exit
+
+
+======================================================
+
+Select an option:
